@@ -1,0 +1,3 @@
+##### 3.1 Pulsars
+- Pulsars are a special case of neutron stars. Neutron stars are collapsed massive stars with cores that have masses on the scale of our suns. These neutron stars have undergone supernovae, which leaves behind a 10-15 kilometer carcass of nuclear mass that are supported against total collapse by something called neutron degeneracy pressure (i.e. the point where the mass is compressed so much that the neutrons and protons start pressing against each other is balanced by the pressure of the collapse itself).
+- Questions: how does the angular momentum and the magnetic flux have can effect on how fast the pulsars spin?

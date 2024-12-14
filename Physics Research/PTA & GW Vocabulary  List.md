@@ -1,0 +1,25 @@
+- **Pulsar Timing Arrays** - 
+- **Gravitational Waves** - 
+- **Stochastic Background Detection** - 
+- **Single Source Detection** - 
+- **Red noise** - 
+- **Sensitivity of an array** - 
+- **Pulsar Timing Telescope** - 
+- **Dwell Time** - 
+- **Nanohertz Regime** - 
+- **Celestial Clocks**
+- **Gravitational Perturbations**  
+- **Noise in Pulsars**
+- **Flat Spacetime Metric** - Spacetime without gravity, a mathematical representation of the structure of space and time in a flat (i.e., non-curved) universe. In the context of general relativity, the metric describes the distances and intervals between events in spacetime. Flat spacetime corresponds to the simplest possible case where there is no curvature due to gravity or other forces.
+- **Interferometric Techniques** - Essentially, a beam of light is produced and split by a laser splitter. The laser light in each of the beams, which we we call arms, go through different materials and are reflected by mirrors to maintain their path. The images are thus recombined in which they create an interference pattern. The changes in phase or time that the interference pattern produces detail, in this case, gravitational waves. 
+- **Closure density of the universe (critical density)** - the density of matter and energy in the universe that's required to make the universe geometrically flat.
+- **Cosmic String Network** - 
+- **Primordial Relic Background** - 
+- **Residuals** - The difference from when the model predicts the pulses to arrive, and when it actually arrives as measured is called the residuals.
+- **Receiver Bandwidth** is the frequency range within which the receiver can operate effectively, typically defined by the range between the lower and upper cutoff frequencies where the receiver's response falls below a certain level (usually -3 dB).
+- **cosmic strings** are one-dimensional line like objects that resemble strings when the early universe went through a phase transition. They were thought to originally aid in triggering the generation of galaxy formation, but that has since been debunked. 
+- **Intersteller Medium** 
+- **Hellings & Downs Curve** - This is a curve thats modeled by a trigonometric/natural log function that details the correlation between two "earth-terms" residuals of a pair of pulsars. On a graph, the correlation is a function of gamma, or the angle between the pulsars. It is great way of finding gravitational waves and distinguishing its signature from other deviations in the pulsar timing residuals. The equation is as follows: 
+	- $C =  \frac{3}{2}\left( \frac{1-\cos\gamma}{2}\ln\left( \frac{1-\cos\gamma}{2} \right)-\frac{1}{6} \frac{1-\cos\gamma}{2}+\frac{1}{3} \right)$
+- **The Last Parsec Problem** - the unknown method of how black hole binaries get from the configuration of several parsecs across to less than one. 
+- **Earth Term** - Thus, one can think of the earth term as the gravitational wave beginning to influence the path of the electromagnetic wave, and the pulsar term as the gravitational wave ending its influence over the path of the electromagnetic wave. 
